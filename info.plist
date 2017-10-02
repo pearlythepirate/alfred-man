@@ -58,7 +58,7 @@
 				<key>script</key>
 				<string>query="{query}"
 
-cache="com.runningwithcrayons.Alfred-2/Workflow Data/net.isometry.alfred.man"
+cache="com.runningwithcrayons.Alfred-3/Workflow Data/net.isometry.alfred.man"
 
 name=${query#*/}
 sect=${query%/*}
@@ -87,7 +87,7 @@ open "$file"
 				<key>script</key>
 				<string>query="{query}"
 
-cache="com.runningwithcrayons.Alfred-2/Workflow Data/net.isometry.alfred.man"
+cache="com.runningwithcrayons.Alfred-3/Workflow Data/net.isometry.alfred.man"
 
 name=${query#*/}
 sect=${query%/*}
